@@ -1,0 +1,23 @@
+Existing Medias:
+Type: CD Name: Ed Sheeran - South of the Border Artist: Ed Sheeran Title: South of the Border Size: 11mb Duration: 00:03:24
+Type: CD Name: XXXTENTACION - MOONLIGHT Artist: XXXTENTACION Title: MOONLIGHT Size: 9mb Duration: 00:02:17
+Type: CD Name: DARIS - KOHEN ME KTHY Artist: DARIS  Title: KOHEN ME KTHY Size: 10mb Duration: 00:02:46
+Type: CD Name: ELINEL - NEPER KOHE Artist: ELINEL Title: NEPER KOHE Size: 15mb Duration: 00:03:32
+Type: CD Name: The Weeknd - Take My Breath  Artist: The Weeknd Title: Take My Breath Size: 10mb Duration: 00:03:44
+Type: CD Name: The Weeknd - Blinding Lights  Artist: The Weeknd Title: Blinding Lights Size: 11mb Duration: 00:04:22
+Type: CD Name: Post Malone - Better Now  Artist: Post Malone Title: Better Now  Size: 9mb Duration: 00:03:52
+Type: CD Name: NF - The Search  Artist: NF  Title: The Search  Size: 8mb Duration: 00:04:51
+Type: CD Name: NF - If You Want Love Artist: NF  Title: If You Want Love Size: 10mb Duration: 00:03:24
+Type: CD Name: Mc Kresha - Luv Luv Artist: Mc Kresha Title: Luv Luv Size: 11mb Duration: 00:03:39
+Type: DVD Name: Interstellar Year: 2014 Director: Christopher Nolan Size: 3.4gb Duration: 02:50:00
+Type: DVD Name: Spider-Man: No Way Home Year: 2021 Director: Jon Watts Size: 3gb Duration: 02:28:00
+Type: DVD Name: Moonfall Year: 2022 Director: Roland Emmerich Size: 2.4gb Duration: 02:00:00
+Type: DVD Name: The Tinder Swindler Year: 2022 Director: Felicity Morris Size: 2gb Duration: 01:54:00
+Type: DVD Name: Your Name Year: 2016 Director: Makoto Shinkai Size: 1.9gb Duration: 01:52:11
+Type: EBook Name: Dune Author: Frank Herbert Size: 2.5mb Number of Pages: 412
+Type: EBook Name: The Fires Of Heaven Author: Robert Jordan Size: 3.3mb Number of Pages: 704
+Type: EBook Name: The Ice Killer Author: Ross Greenwood Size: 2.4mb Number of Pages: 408
+Type: EBook Name: Learn Python Programming - Third Edition Author: Fabrizio Romano Size: 2.9mb Number of Pages: 552
+Type: EBook Name: Java Coding Problems Author: Anghel Leonard Size: 3.1mb Number of Pages: 818
+
+New added Medias:
